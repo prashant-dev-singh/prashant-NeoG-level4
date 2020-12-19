@@ -1,0 +1,36 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    
+    background: url(ldn1.jpg);
+    background-repeat: no-repeat;
+    
+    background-size: 100%;
+    
+}
+
+
+
+.container{
+    margin: auto;
+    height: 70vh;
+    width: 80vh;
+    text-align: center;
+
+}
+
+textarea{
+    border-radius: 5px;
+}
+
+h1,h3{
+    color: rgb(10, 10, 10);
+}
+
+button{
+    background-color: white;
+    border-radius: 5px;
+    border: 2px solid black;
+    cursor: pointer;
+}
